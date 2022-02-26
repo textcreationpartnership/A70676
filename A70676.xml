@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true Protestants appeal to the city and countrey</title>
+            <author>Nalson, John, 1638?-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70676</idno>
+            <idno type="STC">Wing N119</idno>
+            <idno type="STC">ESTC R8233</idno>
+            <idno type="EEBO-CITATION">12195848</idno>
+            <idno type="OCLC">ocm 12195848</idno>
+            <idno type="VID">55978</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55978)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 846:15 or 872:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true Protestants appeal to the city and countrey</title>
+                  <author>Nalson, John, 1638?-1686.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Attributed to John Nalson. cf. BM.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: copy at reel 872:11 has print show-through.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:55978:1"/>
+            <head>THE True Proteſtants APPEAL TO THE City and Countrey.</head>
+            <p>
+               <hi>Gentlemen, and worthy Fellow-Citizens and Subjects,</hi>
+            </p>
+            <p>I Have overcome my ſelf, for your ſakes, in two difficulties, which, it may be, have hin<g ref="char:EOLhyphen"/>dred many an honeſt man from ſpeaking neceſſary Truth; the one is Fear, the other, an expectation that ſome other Perſon, better able to diſcharge it, would have underta<g ref="char:EOLhyphen"/>ken the Province. For the firſt, I conſidered, Why ſhould any <hi>Engliſhman</hi> be afraid to make Uſe of his Native Liberty to ſpeak the Truth, and diſcharge his Conſcience, eſpecially when ſo many buſie men are become ſo bold, not only to whiſper, but loudly to proclaim Diſloyalty, and are not ſatisfied to curſe the King in their Thoughts, in their Bed-chamber, but are advanced to the confidence to print and publiſh ſuch Reflections upon his moſt Sacred Ma<g ref="char:EOLhyphen"/>jeſty and the Government, as now by Law eſtabliſhed, as makes the Ears of Loyal Subjects tingle.</p>
+            <p>I confeſs, I waited with impatience, to ſee ſome bold and generous Pen endeavour to arreſt the Torrent, and ſtem the Tide, but have ſtill been defeated in my expectation; deterred, I ſup<g ref="char:EOLhyphen"/>poſe, from what is every true <hi>Engliſhman,</hi> and good Proteſtant's Duty, by a prevailing timor<g ref="char:EOLhyphen"/>ouſneſs, leſt they ſhould be branded with the infamous Names of Jeſuit, Papiſt, or Popiſhly af<g ref="char:EOLhyphen"/>fected: I expect the ſame Fate, but yet Names, which are only the Scum and Foam of Arbi<g ref="char:EOLhyphen"/>trary, and Popular Defamers, ſhall never fright me, nor ought to do any Perſon, out of the Duty we owe to God, our King, and our Countrey. I perfectly hate and abhor all Popery, Superſtition, and Innovation in the Church; and all that know me, who are not inconſidera<g ref="char:EOLhyphen"/>ble, either for number or Quality, know me to be a true Church of <hi>England-Kings-Proteſtant.</hi> I do no leſs deteſt and abhor all other Schiſmatical Practices and Perſwaſions, treacherous and Diſloyal Doctrines and Actions of Commonwealth-Proteſtants, and all thoſe, whether Papiſts or Schiſmaticks, who, though they diſclaim the odious Doctrine, yet agree in the horrid and abominable Fact of King-killing.</p>
+            <p>Let them, either, or both, look never ſo demurely upon the matter, and endeavour to waſh their hands of it by accuſing one another<g ref="char:punc">▪</g> this thing was not done in a corner, but in the face of the Sun, and then avowed by Diſſenting-Proteſtants, both in the Publick Memoirs of their Uſurpation, and in their private Prints; and the Innocent Blood of the Juſt, as well as their own Impenitent Hearts, are Witneſſes that I am no falſe Accuſer: and whatever good Opini<g ref="char:EOLhyphen"/>on others may have of this Generation of men, I am not to diſſemble, but tell them ſuch Truths as may prick them to the Hearts, and wound them into true Repentance, and that they lye un<g ref="char:EOLhyphen"/>der a more heavy guilt than the very <hi>Jews;</hi> for the Apoſtle excuſes them, in a great meaſure, of the guilt of Innocent Blood; <hi>I know, Brethren, that ye did it ignorantly, for, had ye known the Lord of Life and Glory, ye would not have crucified him;</hi> they would have had <hi>Pilate</hi> alter his Su<g ref="char:EOLhyphen"/>perſcription, from, <hi>This is the King of the Jews,</hi> into, <hi>That he ſaid he was the King of the Jews;</hi> But theſe Shameleſs and Unbluming men, ſlew their Natural Liege Lord with the impudent Formalities of pretended Juſtice, baniſhed the Lawful Heir, and took poſſeſſion of the Vine<g ref="char:EOLhyphen"/>yard, till the Lord of the Husbandmen, with his own wonderful hand, brought him back again in Peace.</p>
+            <p>I hate all the ſilly Popiſh Arts of ſhamming Plots upon the Presbyterians there is no need of it, the whole Nation is ſenſible of their Deſign by their Endeavours; we know the men, and
+<pb n="2" facs="tcp:55978:2"/>their Converſation. All honeſt men believe the Popiſh Plot, and have a Deteſtation, both againſt the Principles and Practiſes of Popery; and it would be more vigorouſly proſecuted, if Commonwealth Proteſtants did not endeavour ſo viſibly to make a hand of it, to play their own game: and if it either ſuffers in its Reputation, or by Delayes, we are obliged to Diſſent<g ref="char:EOLhyphen"/>ers for it, who, by their mutinous, ſeditious Behaviour, their elevated Hopes, inſolent and opprobrious Language againſt the Church and Kings Proteſtants, have put it beyond diſpute, that they are attempting to play the Old Game again; and, having got a real Popiſh Plot, re<g ref="char:EOLhyphen"/>ſolve to make that do the ſame Feat, which before they did under the bare Pretence of one; <hi>viz.</hi> the Alteration and Ruine of the Government eſtabliſhed both in Church and State.</p>
+            <p>Let them never think to put out our Eyes quite with the duſt which they raiſe, and the pre<g ref="char:EOLhyphen"/>faces of Loyalty which they make; their Predeceſſors did the very ſame, and, I think, were the better bred, and more mannerly of the two: but, if they mean as they ſay, why do they look ſo like the Aſs mumping Thiſtles, at abhorring the Traiterous Poſition of taking up Arms by his Authority againſt his Majeſties Perſon. It is the Duty of every good Subject, to endea<g ref="char:EOLhyphen"/>vour all he can to preſerve the Life of his moſt Sacred Majeſty, the true Proteſtant Religion and Government in Church and State, as it is by Law now eſtabliſhed, againſt all Perſons who ſhall attempt to take away the one, or alter and ſubvert the other; but not one Commonwealth Proteſtant that will agree to ſay or ſwear this; and if they neither can not will do it, Judge all ye People, what Proteſtants, what Chriſtians they are.</p>
+            <p>Truth needs no little Arts to ſupport its Credit, it is Deſign that uſes Paint and Varniſh: We King and Church-Proteſtants ſay, we love both, and will ſincerely endeavour, according to our often repeated Sacred Oaths, to ſupport, maintain, and defend both the King and the Church; but the Commonwealth-Proteſtants, are as 'fraid to take theſe Oaths, as unwilling to keep them. Quakers will not ſwear at all, Independents, Presbyterians, Anabaptiſts, <hi>&amp;c.</hi> are abhorrers of the Oath of Supremacy, unleſs their Pope Intereſt gives them a Diſpenſation to get into an Office or Capacity to affront the Government; they ſay, they love the King, and the Proteſtant Religion, and the Church, but they equivocate as bad as Jeſuits in the laſt, and, I fear, diſſemble in the firſt.</p>
+            <p>Their Tranſactions indeed have of late been admirable and incomprehenſible, in Defence of the Government and Proteſtant Religion; as for Inſtance,</p>
+            <p>Firſt, The Government hath been aſperſed, and in print too, and we know by what hands, with a Deſign to introduce Popery and Arbitrary Government, and, which is yet moſt incom<g ref="char:EOLhyphen"/>prehenſible, a damnable, moſt helliſh, and execrable Plot is diſcovered, ſworn, and believed, of the Papiſts, to take away the King's Life, and to ſubvert and alter the Government both in Church and State. Now, for my part, I believe the Popiſh Plot; but whoſoever believes the other, whatever he pretends, cannot believe that, for they make admirable and incomprehen<g ref="char:EOLhyphen"/>ſible Non-ſence of it, that the Papiſts ſhould be plotting to ruin their own Intereſt and Deſign, to ſubvert a Government that was endeavouring to bring in Popery.</p>
+            <p>Secondly, In order to the preſervation and ſupport of the Government, all Occurrences of State are and have been perverted, to defame the Government, and debauch the People from their Loyalty. A War is made with <hi>Holland,</hi> that was purpoſely to weaken the Proteſtant Intereſt; a Peace is concluded, and in defence of the <hi>Netherlands</hi> againſt <hi>France,</hi> the King appears in Arms; why, then that was a Popiſh Army, and deſigned to cut our Throats; the Army is diſ<g ref="char:EOLhyphen"/>banded, and the <hi>Presbyterian Whiggs</hi> in <hi>Scotland</hi> rebell. Alas, poor Souls! they are jugled into it by the Oppreſſions of the Government, and the Inſtigations of the Papiſts. But <hi>Tangier</hi> was the prettieſt Ball; to day <hi>Tangier</hi> is ready to be loſt, and then 'tis worth the Lord knows what, the <hi>Levant</hi> Trade is ruined and loſt: the next Poſt <hi>Tangier</hi> is relieved, and the <hi>Alcaide</hi> routed; why then 'tis not worth the thinking on, 'tis a Queſtion whether it has done us more good or hurt; another while, <hi>Tangier</hi> is ſold to the <hi>French</hi> King for no body knows how many hundred thouſand pounds. It were endleſs to recount all that might be ſaid upon this Head: I will add but one Inſtance more, to ſhew what Arts have been uſed to defame the Government, not ſpa<g ref="char:EOLhyphen"/>ring the very Perſon of his Majeſty, whom God preſerve. You might, within theſe three Months, have had what odds you would, that the Popiſh Lords would never be brought to Tryal at all; when time proved that a Lye, then, ten to one, <hi>Stafford</hi> ſhould not dye, and the very Warrant for his Execution, was reported to be a Pardon; well, that would not do: then he would not be <hi>Colemaniz'd</hi> with the black Box, but would tell Tales before he loſt his Head, and much was expected at his going down to the Lords Houſe, and not that he ſhould talk of a Toleration as an Expedient to bring in Popery: and after all theſe Lyes and Forgeries, proved to be ſuch in the face of the World; yet the trade goes on; and every little more in the Eye of the Government, is repreſented to the People to be a Beam.</p>
+            <p>Thirdly, All Arts are uſed to ſtigmatize the truly Loyal King and Church-Proteſtants with names of Infamy, Maſqueraders, Church-Papiſts, Penſioners, Tories, and what not? to pre<g ref="char:EOLhyphen"/>vent
+<pb n="3" facs="tcp:55978:2" rendition="simple:additions"/>their being choſen by the People where they have Voices, and to incapacitate them for places of Truſt in the Government, as a moſt admirable and effectual way to ſupport it; nay a moſt incomprehenſible Indictment was either intended to be, or was preſented by a Loyal Grand-Jury, againſt the Kings Guards, in order to the Preſervation of his Majeſties perſon in theſe times of eminent Danger; and when one of the lying Mercuries of the Tribe, had juſt printed the News, that 12000 <hi>French</hi> were ready to be landed in the Dominions of his Ma<g ref="char:EOLhyphen"/>jeſty of <hi>Great Britain,</hi> a ſeaſonable time to diſarm him, that ſo the <hi>French</hi> or the <hi>Papiſts</hi> may have the greater Freedom to do their Buſineſs. Oh admirable and incomprehenſible Loyalty of Common-wealth Proteſtants!</p>
+            <p>Fourthly, All the Induſtry imaginable, is uſed to repreſent ſuch perſons to be the fitteſt Repreſentatives of the People, who have been in actual Arms againſt his Majeſty, and his Royal Father: nay, as it is credibly reported, one was recommended to a neighbouring Bur<g ref="char:EOLhyphen"/>rough, who was not only of the Committee of Safety, and had abjur'd <hi>Charles Stuart,</hi> as th<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> breeding of thoſe Loyal Proteſtants, then called the King, but had ſaid beyond Sea, at the time of the Tragical Murther of the late King, that rather than there ſhould want an Execu<g ref="char:EOLhyphen"/>tioner, he would come over, and do the Office; and I think, it was never certainly known who did it: however, the kind offer is an admirable and incomprehenſible Qualification for a Preſerver of his Majeſties Life, and the Government now by Law eſtabliſhed.</p>
+            <p>Fifthly, The People are continually kept waking with repeated Allarms, both by Printing and Coffee-houſe diſcouſes; nothing is ſounded in their Ears but frightful ſtories of Dangers, Maſſacres, Invaſions, ſtrange Sights in the Air, Apparitions and Viſions; and though they have been cheated a thouſand times over with the ſame things, yet they are ſo weak, to give Credit to the Reports and confident Reporters, who tell and print the moſt ſilly Stories, with the ſame Forehead that others do the moſt important Truths, and all this, to prepare the peo<g ref="char:EOLhyphen"/>ple to expect ſome dreadful Revolutions, which muſt by a certain Fatality befall the State.</p>
+            <p>Sixthly, That which is admirable and incomprehenſible even to the moſt ſurprizing Aſto<g ref="char:EOLhyphen"/>miſhment, is to ſee <hi>Pilate</hi> and <hi>Herod</hi> made Friends, Presbytorians, Quakers, Independents and Anabaptiſts, who hate each other with a mortal irreconcileable Hatred, united as one man throughout <hi>England,</hi> to bring in, if poſſible, into the next Houſe of Commons, Perſons that may ſecure his Majeſties Perſon, the Government, and the Proteſtant Religion. But if they ſettle that which is now by Law eſtabliſhed, as I hope, if they ſettle any, they will, and ſecure the Church againſt Papiſts, Hereticks, and Schiſmaticks, the great Enemies both of Church and State, they will ſtrangely diſappoint all thoſe Peoples Expectations.</p>
+            <p>Now, that you may unlock all theſe Myſteries, I will lend you a Key; it is part of a Speech ſpoken by a late Lord Chancellor, to the Parliament.</p>
+            <p>My Lords and Gentlemen, let it not be ſaid, I beſeech you, of us, what was ſaid of the Senate of <hi>Rome, Excellentibus ingeniis citius defuit ars qua civem regant, quam, qua hoſtem perdant,</hi> (they were greater Maſters in conquering their Enemies than governing their Citizens) let not thoſe Scorpions (ſpeaking of Common-wealth Proteſtants) be kept warm in our Boſoms till they ſting us to Death; let not thoſe who hate the Government, and would deſtroy the Government (I have not heard that they are changed ſince) let not them be ſheltred under the Shadow and Protection of the Government. It is poſſible, and God knows it is but poſſible, that ſome men who are no Friends to this or that part of the Government (for you are not to believe, that they always diſcover what they are in truth moſt angry with) who would not buy theſe Alterations they moſt deſire, at the price of a Civil War; they would bring it fairly about, wait for a godly Parliament, and do all by their Conſent: (this is no Sham-Plot) Yet theſe Perſons muſt not take it ill, that we cannot deſire they ſhould ever have it in their Power, to bring theſe Alterations to paſs by thoſe means they now ſeem to abhor. And I do heartily wiſh, I am ſure they will not be the worſe men nor the worſe Subjects for it, that they would a little reflect upon what is paſt, remember how much they have once done (as they then pretended) more than they intended to have done, nay, which they did heartily abhor the thought of doing; and they will find, that the only way to pre<g ref="char:EOLhyphen"/>ſerve themſelves innocent, is to keep their Minds from being vitiated by the firſt Impreſſions, by Jealouſies, Murmurings, and Repinings; and above all, by the Converſations of thoſe men who would ſacrifice the Peace of the Kingdom to their own Ambition, Pride, (Revenge) or even to their Humour.</p>
+            <p>Thus far, he like an Oracle or a Prophet. If therefore you find any perſons to whom this Character does agree, it is your Intereſt as well as your Duty, to deliberate long before you imbarque with ſuch Perſons, who, let their Pretences be never ſo fair and popular, yet ſail by the Compaſs of Diſcontent or Revenge: and ſince this Lord has put you upon Reflection and Conſideration, which are the Methods of Wiſdom, let me offer ſome neceſſary Reflections
+<pb n="4" facs="tcp:55978:3" rendition="simple:additions"/>and Conſiderations to your ſerious Thoughts, in which I appeal to the whole World, whe<g ref="char:EOLhyphen"/>ther they are not wholſom Truths.</p>
+            <p n="1">1. Reflect upon the end of things: That is the firſt thing to be conſidered by all thoſe who pretend to be managed by Prudence; whither can theſe unlawful Arts of traducing and maligning the Government, lead us at the laſt, but to Seditions and Tumults, and the unex<g ref="char:EOLhyphen"/>preſſible Calamities of a Civil War? And what is to be got by that, but certain Slavery, if uſurping Rebels ſhould prevail? For ſuch to ſecure that Tyranny which they have gotten by the Sword, muſt govern arbitrarily and by the Sword, as you have found by former deplo<g ref="char:EOLhyphen"/>rable Experience. Nor can any rational Perſon ſuppoſe, that they who will not be governed by the old and known Laws of the Land, will ſubmit to any, when they are the Legiſlators by virtue of the longeſt Sword; and if Right ſhould prevail, as 'tis odds but it will, not ma<g ref="char:EOLhyphen"/>ny Rebellions having been proſperous, conſider how many Immunities, Charters, Grants, and Liberties, may be forfeited, which you now enjoy; and that though a gratious Oblivion may pardon Life, yet it will not be obliged to reſtore thoſe Franchiſes which royal Bounty has conferr'd upon your Anceſtors, and that Poſterity may curſe the Memory of thoſe who gave the occaſion of their Loſs.</p>
+            <p n="2">2. Reflect, how good, gratious, juſt and merciful a Prince you have, how happy you may live under his eaſie Government, how willing he is to comply with his people, in whatever is conſiſtent with his Safety, Honour, Conſcience, and his Coronation Oath; to deſire more is not only ingratefully to diſoblige him, but unreaſonable, and which, no private perſon, not the meaneſt Subject, but would think it injurious to be impoſed upon, in point of Honour or Conſcience.</p>
+            <p n="3">3. Reflect, eſpecially ſuch as have been guilty of the late Rebellion, how great an Arrear you are in the gracious Act of Oblivion; and if you have not made the Scores even betwixt God and you by true Repentance, how much you are run behind hand to the Avenger of in<g ref="char:EOLhyphen"/>nocent Blood, and do not by running further upon the Score, pull down divine Vengeance upon your Heads. There is a ſtrange Fatality in the number Forty, <hi>Forty years long was I grieved</hi> (ſaith Almighty God) <hi>with the wicked Generation of Murmurers and R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bels in the Wil<g ref="char:EOLhyphen"/>derneſs, and at laſt, he ſwore they ſhould not enter into his Reſt.</hi> Forty years paſſed over the wicked <hi>Jews,</hi> before the overflowing Flood of Vengeance overtook them for the innocent Blood of the Son of God, but then it came to purpoſe. It is now near forty years, ſince the late horrid and unnatural Rebellion began, wherein our Royal Sovereign was murdered by the barbarous hands of uſurping Common-wealth Proteſtants; and let them look to it, and aſ<g ref="char:EOLhyphen"/>ſure themſelves, if they break out into Tumults, Sedition, or Rebellion, his prophetick Threatning will fall upon them. I believe (ſaith he, ſpeaking of the Tumults) the juſt Avenger of all Diſorders, will in time, make thoſe men and that City; ſee their Sin in the Glaſs of their Puniſhment. 'Tis more than an even Lay, that they may one day ſee them<g ref="char:EOLhyphen"/>ſelves puniſhed by that way they offended; I pray God avert it, however, out of pure Com<g ref="char:EOLhyphen"/>paſſion, I recommend it to your ſerious Conſideration, and that though there is a future State wherein Puniſhment may be differed as to private Perſons, yet Communities and Bodies poli<g ref="char:EOLhyphen"/>tick being not capable of that, uſually meet their Puniſhment in this World when they offend.</p>
+            <p>In ſhort, permit me to tell you this home Truth, which you ſhall moſt certainly find juſti<g ref="char:EOLhyphen"/>fied by Experience. That you may run the ſame Circle of Miſery (but do not make your ſelves ſure of Succeſs, for you will be miſtaken, let not him that putteth on his Harneſs, boaſt like him that putteth it off) you ſhall never ſee this Nation ſecured in a happy Peace, till ſo<g ref="char:EOLhyphen"/>ber, wiſe, judicious and moderate men, by moderate, cool, and healing Councils, reſcue both the Church and State from the Attempts of Popery on the one hand, and the Invaſions of Common-wealth Proteſtants, Schiſmaticks, on the other, which however, ſome may look upon as impoſſible; yet there is a Power that is able to effect greater Wonders; and ſure, none ought to be tempted to diſpair, who can remember his Majeſties happy and miraculous Reſtauration, and how the Sword fell out of the hands of his Enemies: Remember this, and believe there is the ſame providence to protect him ſtill, and to confound all the Attempts of his, and the Enemies of our Peace and Happineſs.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed, 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
